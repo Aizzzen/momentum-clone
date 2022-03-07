@@ -1,6 +1,6 @@
 Приложение является копией Google Momentum
 
-Ссылка: https://yunusmomentum.netlify.app/
+Ссылка: https://yunusgooglemomentum.netlify.app/
 
 npm install
 
